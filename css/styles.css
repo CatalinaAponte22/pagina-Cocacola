@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.rojo{
+    background-color: red;
+}
+.blanco{
+    background-color: white;
+}
+.parrafo1{
+    font-size: 30px;
+}
+.titulo{
+    text-align: center;
+    font-size: 35px;
+}
+.boton{
+    text-align: center;
+    font-size: 30px;
+}
+.boton2{
+    text-align: center;
+    font-size: 30px;
+}
+.ultima{
+    background-color: rgb(255, 255, 255);
+}
